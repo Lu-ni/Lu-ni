@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lu-ni&label=Lunar+Landings&color=green" alt="Lunar Landings"/>
+  <img src="https://komarev.com/ghpvc/?username=Lu-ni&label=Random+number+of+the+day&color=green" alt="Random number of the day"/>
 </p>
 ### Hi there 👋
 
