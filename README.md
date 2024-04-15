@@ -1,7 +1,6 @@
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Lu-ni&label=Random+number+of+the+day&color=green" alt="Random number of the day"/>
 </p>
-### Hi there 👋
 
 <!--
 **Lu-ni/Lu-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
